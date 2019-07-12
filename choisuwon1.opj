@@ -203,8 +203,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 25 1159 25 581")
-        (Scroll "-240 0")
-        (Zoom "53")
+        (Scroll "186 0")
+        (Zoom "132")
         (Occurrence "/"))
       (Path "C:\USERS\USER\DESKTOP\WORK\CHOISUWON1\CHOISUWON1.DSN")
       (Schematic "SCHEMATIC1")
